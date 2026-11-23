@@ -1,0 +1,14 @@
+administrator
+admin
+guest
+msfadmin
+user
+suporte
+financeiro
+rh
+diretoria
+backup
+scanner
+operador
+alexandre
+dio

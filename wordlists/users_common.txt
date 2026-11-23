@@ -1,0 +1,15 @@
+admin
+administrator
+msfadmin
+root
+user
+service
+test
+guest
+backup
+postgres
+ftp
+operator
+alexandre
+cassiano
+dio
